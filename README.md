@@ -12,4 +12,4 @@ Help students learn Github and markdown format
 RStudio Version 1.2.1335 and R version 3.6.3
 
 ## Credits
-Joseph Gatonye
+Joseph Gatonye and fkosgei
