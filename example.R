@@ -6,5 +6,6 @@ x <- read.table("mydata.tsv", header = TRUE, row.names = 1,stringsAsFactors = FA
 
 # check if the data  has been imported properly
 head(x)
+# check data structure
 str(x)
 
