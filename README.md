@@ -1,20 +1,15 @@
 # example-3-repeat
+In class demonstration about how to use Github via Rstudio
 
-In  class demonstration about how to use Github via Rstudio
-
-##Motivation
-
+## Motivation
 Help students learn Github and markdown format
 
-##Contents
-
+## Contents
 * Readme file in markdown
 * example Rscript/Rmd
 
-##Installation
-
+## Installation
 RStudio Version 1.2.1335 and R version 3.6.3
 
-##Credits
-
+## Credits
 Joseph Gatonye
